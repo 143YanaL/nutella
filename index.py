@@ -17,3 +17,4 @@ l="hola"
 print(len(l))
 print(type(l))
 print(l[0])
+print(l[-1])
