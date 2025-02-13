@@ -15,3 +15,4 @@ print(h-g)
 print(h/g)
 l="hola"
 print(len(l))
+print(type(l))
