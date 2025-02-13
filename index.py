@@ -9,3 +9,4 @@ h=32474
 g=12391
 
 print(h+g)
+print(h*g)
