@@ -1,7 +1,3 @@
-print('Hello')
-print('Hello')
-print('Hello')
-print('Hello')
-print('Hello')
-print('Hello')
-print('Hello')
+t="candy"
+print(len(t))
+print(type(t))
