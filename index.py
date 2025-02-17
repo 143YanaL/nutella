@@ -7,3 +7,6 @@ a = 6
 
 print(a**2)
 
+################
+for e in range(5,11):
+    print(e)
