@@ -33,3 +33,10 @@ print(a/p)
 ########################
 p="hello"
 print(p)
+########################
+
+yyy = 1
+
+yyy = str(yyy)
+
+print(yyy)
