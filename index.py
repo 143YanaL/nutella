@@ -40,3 +40,7 @@ yyy = 1
 yyy = str(yyy)
 
 print(yyy)
+def nameData ():
+    print("Yana")
+
+nameData()
